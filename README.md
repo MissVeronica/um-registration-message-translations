@@ -1,7 +1,8 @@
 # UM Registration Message Translations
 Custom template for UM registration message translations when role settings message is empty
-## UM Settings
-None
+## UM User Roles -> Edit Registration Role -> "Registration Options"
+Select "Show custom message" and save "Personalize the custom message" as blank
+
 ## Installation
 ### UM Guide
 Read the UM guide about "Template structure & Overriding templates via a theme" https://docs.ultimatemember.com/article/1516-templates-map
