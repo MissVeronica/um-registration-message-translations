@@ -10,6 +10,9 @@
  *
  * @var string $mode
  * @var int    $form_id
+ *
+ * Source: https://github.com/MissVeronica/um-registration-message-translations
+ * Version 1.0.0
  */
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
